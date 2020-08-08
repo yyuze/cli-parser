@@ -88,6 +88,5 @@ public class Magic {
     }
 }
 ```
-Note that in reality cli service, you may enter command like "magic --defense --word Expecto Patronus --t Lord Voldemort --be-nervoue",   
-just pass parameter 'args' instand of 'arguments' to dispatch() method.
+Note that in reality cli service, you may enter command like "magic --defense --word Expecto Patronus --t Lord Voldemort --be-nervoue", just pass parameter 'args' instand of 'arguments' to dispatch() method.   
 You can define as many actions as you want to process following the previous 4 steps.
